@@ -1,0 +1,13 @@
+{
+    "name": "MediumProxy",
+    "description": "For customizing the Medium personal domain. This app will help to create a proxy to the medium page.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png",
+    "repository": "https://github.com/cuongmx/MediumProxy",
+    "env": {
+      "MEDIUM_SITE": {
+        "description": "The link of your medium page (ex: https://cuongmx.medium.com)",
+        "required": true
+      }
+    }
+  }
+  
